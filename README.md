@@ -6,7 +6,7 @@
 
 
 Scoring:
-    Getting hit: -500
-    Killing small enemies: +100
-    Killing larger enemies: +250
+Getting hit: -500
+Killing small enemies: +100
+Killing larger enemies: +250
     
